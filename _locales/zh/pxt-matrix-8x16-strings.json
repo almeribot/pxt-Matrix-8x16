@@ -1,0 +1,12 @@
+{
+  "Matrix.MatrixClear|block": "点阵清空",
+  "Matrix.MatrixDraw|block": "点阵点亮|X %x|Y %y位置",
+  "Matrix.MatrixEmoji|block": "点阵显示 emoji 表情%ID",
+  "Matrix.MatrixRefresh|block": "点阵刷新显示",
+  "Matrix.emojiList.Angry_Face|block": "😠",
+  "Matrix.emojiList.Grinning_Squinting_Face|block": "😆",
+  "Matrix.emojiList.Neutral_Face|block": "😐",
+  "Matrix.emojiList.Sad_Face|block": "😞",
+  "Matrix.emojiList.Slightly_Smiling_Face|block": "🙂",
+  "{id:category}Matrix": "8x16 点阵"
+}

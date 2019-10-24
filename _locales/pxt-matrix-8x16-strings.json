@@ -1,0 +1,12 @@
+{
+  "Matrix.MatrixClear|block": "Matrix Clear",
+  "Matrix.MatrixDraw|block": "Matrix Draw|X %x|Y %y",
+  "Matrix.MatrixEmoji|block": "Matrix show emoji %ID",
+  "Matrix.MatrixRefresh|block": "Matrix Refresh",
+  "Matrix.emojiList.Angry_Face|block": "😠",
+  "Matrix.emojiList.Grinning_Squinting_Face|block": "😆",
+  "Matrix.emojiList.Neutral_Face|block": "😐",
+  "Matrix.emojiList.Sad_Face|block": "😞",
+  "Matrix.emojiList.Slightly_Smiling_Face|block": "🙂",
+  "{id:category}Matrix": "Matrix"
+}
