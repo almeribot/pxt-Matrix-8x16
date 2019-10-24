@@ -1,4 +1,4 @@
-//% weight=10 color=#9F79EE icon="\uf108"
+//% weight=10 color=#00D1D1 icon="\uf108"
 namespace Matrix {
 
     let initializedMatrix = false
