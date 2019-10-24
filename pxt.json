@@ -8,7 +8,8 @@
     },
     "files": [
         "README.md",
-        "main.ts"
+        "main.ts"，
+        "_locales/zh/pxt-matrix-8x16-strings.json"
     ],
     "testFiles": [
         "test.ts"
