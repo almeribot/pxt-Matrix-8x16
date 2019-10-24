@@ -47,7 +47,6 @@ namespace Matrix {
 
     //% blockId=robotbit_matrix_clear block="Matrix Clear"
     //% weight=65
-    //% blockGap=50
     export function MatrixClear(): void {
         if (!initializedMatrix) {
             matrixInit();
